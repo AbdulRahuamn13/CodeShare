@@ -1,1 +1,2 @@
 Share here
+This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
